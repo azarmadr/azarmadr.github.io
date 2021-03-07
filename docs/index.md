@@ -1,6 +1,3 @@
-[VLSi FAQ](azarmadr.github.io/vlsi-faq)
-
-
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/azarmadr/azarmadr.github.io/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
@@ -10,6 +7,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+[VLSi FAQ](azarmadr.github.io/vlsi-faq)
 
 ```markdown
 Syntax highlighted code block
@@ -25,7 +24,6 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
 [Link](url) and ![Image](src)
 ```
 
