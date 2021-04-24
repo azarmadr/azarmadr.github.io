@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-[VLSi FAQ](azarmadr.github.io/vlsi-faq)
+[VLSi FAQ](https://azarmadr.github.io/vlsi-faq/)
 
 ```markdown
 Syntax highlighted code block
